@@ -11,6 +11,8 @@ from pathlib import Path
 
 USUARIO = sys.argv[1] if len(sys.argv) > 1 else "Chava33165"
 SALIDA = Path(__file__).resolve().parents[2] / "assets"
+# Mi avatar de rizos (los mismos trazos que el portafolio, sacados de rizos.js).
+AVATAR = (Path(__file__).resolve().parent / "avatar.svgfrag").read_text(encoding="utf-8")
 
 TEMAS = {
     "claro": {"papel": "#F5F4EE", "borde": "#E4E1D7", "tinta": "#1F1E1D", "tinta2": "#5E5D58", "tinta3": "#8E8C84",
@@ -56,6 +58,7 @@ def encabezado(t: dict) -> str:
 </style>
 <rect x="1" y="1" width="838" height="228" rx="22" fill="{t['papel']}" stroke="{t['borde']}"/>
 <g fill="{t['riel']}">{''.join(f'<circle cx="{x}" cy="{y}" r="1.4"/>' for x in range(560, 830, 18) for y in range(20, 220, 18))}</g>
+<g transform="translate(620 22) scale(0.8)">{AVATAR.replace('{TINTA}', t['tinta']).replace('{ACENTO}', t['acento'])}</g>
 <text x="40" y="52" font-family="{SANS}" font-size="13" letter-spacing="2.5" fill="{t['acento']}">HOLA, SOY</text>
 <g class="letra" style="animation-delay:.15s"><text x="38" y="112" font-family="{SERIF}" font-size="60" fill="{t['tinta']}" letter-spacing="-1.5">Salvador</text></g>
 <g class="letra" style="animation-delay:.45s"><text x="276" y="112" font-family="{SERIF}" font-size="60" font-style="italic" fill="{t['acento']}" letter-spacing="-1.5">Pantoja</text></g>

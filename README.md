@@ -11,15 +11,15 @@ para mi iPhone y el sistema que lleva mi dinero.
 Me gusta imaginar soluciones y entender cómo funciona todo por dentro. Uso la IA como herramienta para construir más
 rápido, sin dejar de aprender.
 
-<sub>🇺🇸 Electronics technician (AI servers, PCBA diagnostics) and Software Engineering student in Guadalajara, Mexico. I build and run my own homelab.</sub>
+<sub>EN: Electronics technician (AI servers, PCBA diagnostics) and Software Engineering student in Guadalajara, Mexico. I build and run my own homelab.</sub>
 
 ### Proyectos que uso todos los días
 
 | | |
 |---|---|
-| 🤖 **[KORRA](https://github.com/Chava33165/korra-asistente)**<br><sub>Asistente personal en Telegram: DeepSeek con tool calling + Claude Code, Google APIs, voz y memoria.</sub> | 💸 **[finanzas-api](https://github.com/Chava33165/finanzas-api)**<br><sub>Mi sistema de dinero: nómina, tarjetas, meses sin intereses y atajos de Apple. FastAPI, 60+ pruebas.</sub> |
-| 📱 **[homelab-app](https://github.com/Chava33165/homelab-app)**<br><sub>App nativa de iPhone (Flutter) para mi servidor, mis finanzas y mi búsqueda de empleo.</sub> | 🖥️ **[homelab-dashboard](https://github.com/Chava33165/homelab-dashboard)**<br><sub>Panel con métricas en vivo y control de contenedores. Go + Svelte + Docker.</sub> |
-| 💧 **[Watt & Beaver](https://github.com/Chava33165/WattYBeaver-Proyecto)**<br><sub>IoT de bajo costo para medir agua y luz en casa, con retos para ahorrar.</sub> | ✨ **[Mi portafolio](https://paginas.wattnbeaver.site/portafolio/)**<br><sub>Quién soy y lo que hago, servido desde mi Raspberry Pi.</sub> |
+| **[KORRA](https://github.com/Chava33165/korra-asistente)**<br><sub>Asistente personal en Telegram: DeepSeek con tool calling + Claude Code, Google APIs, voz y memoria.</sub> | **[finanzas-api](https://github.com/Chava33165/finanzas-api)**<br><sub>Mi sistema de dinero: nómina, tarjetas, meses sin intereses y atajos de Apple. FastAPI, 60+ pruebas.</sub> |
+| **[homelab-app](https://github.com/Chava33165/homelab-app)**<br><sub>App nativa de iPhone (Flutter) para mi servidor, mis finanzas y mi búsqueda de empleo.</sub> | **[homelab-dashboard](https://github.com/Chava33165/homelab-dashboard)**<br><sub>Panel con métricas en vivo y control de contenedores. Go + Svelte + Docker.</sub> |
+| **[Watt & Beaver](https://github.com/Chava33165/WattYBeaver-Proyecto)**<br><sub>IoT de bajo costo para medir agua y luz en casa, con retos para ahorrar.</sub> | **[Mi portafolio](https://paginas.wattnbeaver.site/portafolio/)**<br><sub>Quién soy y lo que hago, servido desde mi Raspberry Pi.</sub> |
 
 ### Con lo que trabajo
 
